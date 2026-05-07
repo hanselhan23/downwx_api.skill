@@ -1,0 +1,4 @@
+interface:
+  display_name: "down.mptext Key Refresh"
+  short_description: "Check and refresh down.mptext.top WeChat article API keys."
+  default_prompt: "Check whether this project's down.mptext.top API key is valid and refresh it through scan-login when needed."
